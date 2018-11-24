@@ -84,5 +84,5 @@ $(document).ready(function () {
     }
 
     setState("user"); // Set the initial state.
-    setInterval(updateMessages, 10000);
+    // setInterval(updateMessages, 10000);
 });
