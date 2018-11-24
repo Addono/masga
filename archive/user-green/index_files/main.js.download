@@ -37,6 +37,7 @@ $(document).ready(function () {
     }
 
     function updateMessages() {
+        return;
         $.ajax({
             method: "GET",
             url: "https://us-central1-junction-2018.cloudfunctions.net/get-percentage?user=" + current_user,
