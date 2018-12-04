@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "./masga/",
-  "start_url": "./masga/index.html",
+  "start_url": "./",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
